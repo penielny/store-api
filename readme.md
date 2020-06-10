@@ -6,6 +6,6 @@
 
   <_The URL PATH appllies to all bot api path_>
 
-* Movies & Tv Series Bot Documentation<br/>https://github.com/penielny/
-* Technews Bot Documentation<br/>https://github.com/penielny/
-* Music Bot Documentation<br/>https://github.com/penielny/
+* Movies & Tv Series Bot Documentation<br/>https://github.com/penielny/store-api/blob/master/movies.md
+* Technews Bot Documentation<br/>https://github.com/penielny/store-api/blob/master/technews.md
+* Music Bot Documentation<br/>https://github.com/penielny/store-api/blob/master/music.md
